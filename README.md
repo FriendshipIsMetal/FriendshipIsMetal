@@ -1,5 +1,5 @@
 <p align="center">
-  $$\color{#99595e}{\text{WIP}}$$
+  $$\color{#995965}{\text{WIP}}$$
 </p>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jv5bdnv36j3mwa4dwne5wtzmy4&redirect=true">
@@ -8,4 +8,4 @@
 </p>
 
 
-$$\color{#99595e}{\text{I luvv Paul Gray}}$$
+$$\color{#995965}{\text{I luvv Paul Gray}}$$
