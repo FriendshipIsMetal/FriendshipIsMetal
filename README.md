@@ -9,3 +9,7 @@
 
 
 $$\color{#ab6c77}{\text{I luvv Paul Gray}}$$
+<p align="center">
+  $$\color{#ab6c77}{\text{Looking to make amends/apologize to anyone I had past issues with, feel free to reach out whenever if interested.}}$$
+  $$\color{#ab6c77}{\text{I've reflected and I don't want to hold hate for anyone anymore.}}$$
+</p>
